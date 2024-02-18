@@ -6,7 +6,7 @@
   font-family: 'Poppins',sans-serif;
 }
 body{
-  background: #1abc9c;
+  background: #fff59d;
   overflow: hidden;
 }
 ::selection{
@@ -25,9 +25,9 @@ body{
 }
 .container2 .title{
   height: 90px;
-  background: #16a085;
+  background: #fff59d;
   border-radius: 5px 5px 0 0;
-  color: #fff;
+  color: #010101;
   font-size: 30px;
   font-weight: 600;
   display: flex;
@@ -63,10 +63,10 @@ form .row input::placeholder{
   position: absolute;
   width: 47px;
   height: 100%;
-  color: #fff;
+  color: #000000;
   font-size: 18px;
-  background: #16a085;
-  border: 1px solid #16a085;
+  background: #fff59d;
+  border: 1px solid ##fff59d;
   border-radius: 5px 0 0 5px;
   display: flex;
   align-items: center;
@@ -82,12 +82,12 @@ form .row input::placeholder{
   text-decoration: underline;
 }
 .container2 form .button input{
-  color: #fff;
+  color: #040000;
   font-size: 20px;
   font-weight: 500;
   padding-left: 0px;
-  background: #16a085;
-  border: 1px solid #16a085;
+  background: #fff59d;
+  border: 1px solid #fff59d;
   cursor: pointer;
 }
 form .button input:hover{
